@@ -1,9 +1,19 @@
 # Hackerrank Repository
 
-## Subtitle
+## Topics
 
-**light**
 - *Algorithm*
-- *Data Structure*
+- *Artificial* Intelligence
+- *Java*
+- *SQL*
+- *Functional Programming*
+- *Data Structures*
+- *C*
+- *Python*
+- *Databases*
+- *Regex*
+- *Mathematics*
+- *C++*
+- *Linux Shell*
 
 
