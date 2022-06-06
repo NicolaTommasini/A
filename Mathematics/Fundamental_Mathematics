@@ -1,0 +1,8 @@
+#1 Leaonardo Prime's Factor
+def prova(n):
+    if n == 2:
+          test = "ok"
+    else:
+         test = "non ok"
+
+a = prova(5)
