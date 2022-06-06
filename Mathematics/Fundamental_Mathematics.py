@@ -1,2 +1,6 @@
 #1 Leaonardo Prime's Factor
-print("test")
+#prova 
+n = int()
+
+#2
+#3
